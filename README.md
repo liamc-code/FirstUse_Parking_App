@@ -1,9 +1,9 @@
 
 # FirstUse Parking App
 
-<img src="images/homepage2.png" width="350" alt="FirstUse Parking App Screenshot">
-
 FirstUse Parking App is a user-friendly mobile application designed to streamline parking management. Users can select parking locations, register their vehicles, and manage parking durations effortlessly.
+
+<img src="images/homepage2.png" width="350" alt="FirstUse Parking App Screenshot">
 
 ## Table of Contents
 
